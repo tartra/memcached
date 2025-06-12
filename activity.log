@@ -5,3 +5,5 @@
 2025-12-06T18:29:00+07:00 | INFO  | repo=memcached | pid=9956 | action=push
 2025-12-18T19:18:00+07:00 | INFO  | repo=memcached | pid=9956 | action=push
 2025-07-14T08:28:00+07:00 | INFO  | repo=memcached | pid=9956 | action=push
+2025-01-14T08:14:00+07:00 | INFO  | repo=memcached | pid=9956 | action=pull | latency=64ms
+2025-06-12T18:20:00+07:00 | INFO  | repo=memcached | pid=9956 | action=push
